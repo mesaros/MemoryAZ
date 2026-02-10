@@ -1,12 +1,12 @@
 ﻿/**
- * @package    Memory Game (card game) - online
- * @version    2.1
- * @info       card game
- * @date       Tue, 10 October 2023 11:34:28 +0100, Slovakia
+ * @package    MemoryAZ - online
+ * @version    3.0
+ * @info       Memory Card Games
+ * @date       Tue, 10 Feb 2026 19:41:03 +0100, Slovakia
  * @author     Robert Mesaros
- * @copyright  Copyright © 2023 Robert Mesaros, rmSOFT
+ * @copyright  Copyright © 2026 Robert Mesaros, rmSOFT
  * @web        https://www.rmsoft.sk
- * @link       https://www.rmsoft.sk/en/portfolio/programming-work/applications/memory-game-card-game-online
+ * @link       https://www.rmsoft.sk/en/portfolio/programming-work/applications/memoryaz-memory-games-online
  *
  * @donate     https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6
  *
