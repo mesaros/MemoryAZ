@@ -176,6 +176,7 @@ Jednotlivé hry pexesa je možné spustiť aj prostredníctvom indexu hry, napr.
 
 ### Linky
 
+- portál - [MemoryAZ][1]
 - viac o kartovej hre - [Pexeso][2]
 - webstránka [rmSOFT][3]
 - [história tohto projektu][6]

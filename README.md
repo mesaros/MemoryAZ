@@ -175,6 +175,7 @@ Individual memory games can also be launched through the game index, e.g. https:
 
 ### Links
 
+- portal - [MemoryAZ][1]
 - more about this card game - [Memory Game][2]
 - website [rmSOFT][3]
 - [history of this project][6]
