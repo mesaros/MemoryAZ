@@ -13,7 +13,7 @@ In addition to the classic game (with searching **for same pairs of cards**) the
 
 ### Screenshots
 
-Animated Films (adults) ... https://play.memoryaz.com/1591<br>
+Animated Films (adults) ... https://play.memoryaz.com/1591
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/01.jpg" width="832px" alt="Animated Films (adults)" title="Animated Films (adults)" />
 
 Animals (adults) ... https://play.memoryaz.com/137
