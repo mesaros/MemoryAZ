@@ -2,10 +2,10 @@
  * @package    MemoryAZ - online
  * @version    3.0
  * @info       Memory Card Games
- * @date       Tue, 10 Feb 2026 22:15:03 +0100, Slovakia
+ * @date       Tue, 11 Feb 2026 08:45:09 +0100, Slovakia
  * @author     Robert Mesaros
  * @copyright  Copyright © 2026 Robert Mesaros, rmSOFT
- * @web        https://www.rmsoft.sk
+ * @web        https://memoryaz.com
  * @link       https://www.rmsoft.sk/en/portfolio/programming-work/applications/memoryaz-memory-games-online
  *
  * @donate     https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6

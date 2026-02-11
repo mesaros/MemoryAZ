@@ -9,7 +9,7 @@ MemoryAZ
     to lose memory is her
     permanent excercise!**
 
-In addition to the classic game (with searching **for same pairs of cards**) there are **different difficulty**, where you need to find same (or different) **three of a kind**, **four of a kind**, **five of a kind**, ...
+In addition to the classic game (with searching **for same pairs of cards**) there are **different difficulty**, where you need to find same (or different - but thematically similar) **three of a kind**, **four of a kind**, ...
 
 ### Screenshots
 
@@ -182,7 +182,7 @@ Individual memory games can also be launched through the game index, e.g. https:
 - [donate][4] *(Thanks)*
 
 
-[1]: https://memoryaz.com
+[1]: https://memoryaz.com/en
 [2]: https://www.rmsoft.sk/en/portfolio/programming-work/applications/memoryaz-memory-games-online
 [3]: https://www.rmsoft.sk/en
 [4]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6 "Thanks for support"
